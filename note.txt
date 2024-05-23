@@ -1,0 +1,1 @@
+docker run -e DB_HOST= -e DB_USER=your-username -e DB_PASSWORD=your-password -e DB_NAME=your-database-name your-image
